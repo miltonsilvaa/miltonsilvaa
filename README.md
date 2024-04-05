@@ -42,6 +42,10 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/miltonsilvaa/miltonsilvaa/assets/145921516/e6c59380-dcfb-4de5-9b2a-d8806deeb9bb">
 
+<img align="left"  height="80" width="80" src="https://github.com/miltonsilvaa/miltonsilvaa/assets/145921516/13f1b29e-f26f-4589-a9a8-2b61f6bb0654">
+
+<img align="left"  height="80" width="80" src="https://github.com/miltonsilvaa/miltonsilvaa/assets/145921516/8da01053-d439-4e11-b772-2b78cc494c51">
+
 </div>
 
 <br>
