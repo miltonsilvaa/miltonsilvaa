@@ -46,6 +46,8 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/miltonsilvaa/miltonsilvaa/assets/145921516/8da01053-d439-4e11-b772-2b78cc494c51">
 
+<img align="left"  height="80" width="80" src="https://github.com/miltonsilvaa/miltonsilvaa/assets/145921516/7a417839-a54b-4787-808d-83240027a2c7">
+
 </div>
 
 <br>
@@ -60,6 +62,8 @@
 <div align="left"> 
 
 <img align="left"  height="80" width="80" src="https://github.com/miltonsilvaa/miltonsilvaa/assets/145921516/a1cf4b5f-3003-4903-a757-bcc0b675cb86">
+
+<img align="left"  height="80" width="80" src="https://github.com/miltonsilvaa/miltonsilvaa/assets/145921516/7a417839-a54b-4787-808d-83240027a2c7">
 
 </div>
 
