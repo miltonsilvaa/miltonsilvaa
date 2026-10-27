@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:4C1D95,100:7C3AED&text=Milton%20Silva&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-End;Desenvolvimento+de+Aplicativos;Micro+Aplicativos;Automa%C3%A7%C3%A3o+com+IA"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Desenvolvedor+Front-End;Performance+e+Testes+Reais;Automa%C3%A7%C3%A3o+com+IA"/>
 
 <h3>Desenvolvedor Front-end · São Paulo, Brasil · Formando em Ciência da Computação</h3>
+
+<p>Construo produtos web do zero ao deploy — com testes de verdade, performance medida e sem atalho de template genérico.</p>
 
 </div>
 
